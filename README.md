@@ -1,8 +1,6 @@
 This readme file is splitted on 2 parts "What is this projet" and "How to Use this Repository"
 ---
 
-# Project Title
-
 ## What is this project?
 
 This project aims to consolidate and simplify access to a wide array of online educational resources. It integrates various course and training platforms, such as Coursera and Udemy, along with content from independent trainers and YouTube creators. The key steps of the project include:
